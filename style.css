@@ -2,6 +2,7 @@ p{
    font-size: 22px;
    /*width: 50%;*/
    margin: 1% 5% 1% 5%;
+   font-family: Luminari, fantasy;
 }
 
 img{
@@ -16,8 +17,12 @@ hr{
    text-align: center;
    background-color: white;
    padding: 1%;
+   border-radius: 25px;
 
 }
 body{
-   background-color: beige;
+   background-color: gainsboro;
+}
+h1, h2{
+   font-family: Luminari, fantasy
 }
