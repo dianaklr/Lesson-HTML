@@ -1,0 +1,23 @@
+p{
+   font-size: 22px;
+   /*width: 50%;*/
+   margin: 1% 5% 1% 5%;
+}
+
+img{
+   height: 400px;
+}
+hr{
+   width: 600px;
+}
+#whiteBox{
+   width: 70%;
+   margin: 0 auto;
+   text-align: center;
+   background-color: white;
+   padding: 1%;
+
+}
+body{
+   background-color: beige;
+}
